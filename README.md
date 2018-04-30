@@ -1,7 +1,5 @@
 ## Events
 
-[![Join the chat at https://gitter.im/UofTCoders/Lobby](https://badges.gitter.im/UofTCoders/studyGroup.svg)](https://gitter.im/UofTCoders/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 Welcome to the Events page of [Mozilla Science Lab](https://www.mozillascience.org/)'s Study Group project! 
 
 ### Wait What's a 'Mozilla Study Group'?
@@ -12,8 +10,8 @@ Mozilla Study Groups are fun, informal meetups of your friends and colleagues fr
 
 Welcome to our Mozilla Study Group! A few things to do & know now that you're here:
 
- - **Watch this repo and/or the [main repo](https://github.com/UofTCoders/studyGroup):** up in the top right, there's a button that says 'Watch'; click it, and set yourself to 'Watching'. This will send you email notifications of new discussions. If you only want to be notified about events (and not any other discussion topics), watch just this repo. If you want to stay updated on all group doings, watch the main repo AND the Events repo. If you don't want email, but would like an alert just on GitHub, change the setting in Settings -> Notification Center (Settings is the little cog in the top right).
- - **Check out the [issue tracker](https://github.com/UofTCoders/studyGroup/issues) in the main repo:** click on 'issues' in the sidebar on the right; this is where all the conversations this study groups is having live. Use this space to ask questions, request events, make suggestions, or just say hi.
+ - **Watch this repo and/or the [main repo](https://github.com/au-oc/studyGroup):** up in the top right, there's a button that says 'Watch'; click it, and set yourself to 'Watching'. This will send you email notifications of new discussions. If you only want to be notified about events (and not any other discussion topics), watch just this repo. If you want to stay updated on all group doings, watch the main repo AND the Events repo. If you don't want email, but would like an alert just on GitHub, change the setting in Settings -> Notification Center (Settings is the little cog in the top right).
+ - **Check out the [issue tracker](https://github.com/au-oc/studyGroup/issues) in the main repo:** click on 'issues' in the sidebar on the right; this is where all the conversations this study groups is having live. Use this space to ask questions, request events, make suggestions, or just say hi.
  - **Read the code of conduct:** this Study Group is for everyone - we abide by a [set of rules](https://www.mozillascience.org/code-of-conduct/) that require everyone be treated with respect. Help us make a space where everyone feels welcome, and we'll all have a better time!
 
 
